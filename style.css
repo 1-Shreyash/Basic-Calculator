@@ -29,6 +29,8 @@ body{
     box-sizing: border-box;
     outline: none;
     caret-color: rgb(255, 94, 0);
+    /* display: flex;
+    justify-content: flex-end; */
 }
 .grid-display{
     display: grid;
